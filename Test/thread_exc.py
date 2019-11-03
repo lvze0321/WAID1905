@@ -7,10 +7,6 @@ lock = Lock()
 urls = [
     "/home/tarena/桌面/",
     "/home/tarena/下载/",
-    "/home/tarena/模板/",
-    "/home/tarena/音乐/",
-    "/home/tarena/图片/",
-    "/home/tarena/视频/",
 ]
 
 filename = input('文件：')

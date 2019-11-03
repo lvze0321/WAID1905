@@ -1,7 +1,6 @@
 """
 ftp 文件服务器，服务端
 env : python3.6
-多进程/线程并发 socket
 """
 from socket import *
 from threading import Thread
