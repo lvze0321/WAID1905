@@ -1,7 +1,3 @@
-"""
-ftp 文件服务器，服务端
-env : python3.6
-"""
 from socket import *
 from threading import Thread
 import sys,os
