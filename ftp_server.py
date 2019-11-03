@@ -1,6 +1,7 @@
 """
 ftp 文件服务器，服务端
 env : python3.6
+Tom 也要修改这个文件
 """
 from socket import *
 from threading import Thread
